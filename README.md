@@ -4,7 +4,8 @@
   <img src="assets/ambient-windows-hero.png" alt="Ambient listening on Windows" width="100%">
 </p>
 
-Ambient is an AI assistant that lives quietly in the background, ready to help you speak, write, and get things done across Windows. Hold a shortcut, say what you need, and keep moving.
+**Ambient lives at the top of your Windows desktop. Hold <kbd>Alt</kbd> + <kbd>Space</kbd> and speak naturally.**<br>
+**It knows how you work and gets the job done your way.**
 
 ## Windows beta
 
