@@ -1,11 +1,16 @@
-# Ambient desktop releases
+# Ambient for Windows
 
-This repository contains official release binaries for Ambient. Application source code is maintained separately and is not published here.
+<p align="center">
+  <img src="assets/ambient-windows-hero.png" alt="Ambient listening on Windows" width="100%">
+</p>
+
+Ambient is an AI assistant that lives quietly in the background, ready to help you speak, write, and get things done across Windows. Hold a shortcut, say what you need, and keep moving.
 
 ## Windows beta
 
-[Download Ambient for Windows 11 (x64)](https://github.com/aryansid/Ambient-Releases/releases/latest/download/Ambient-Windows-x64-Setup.exe)
+[**Download Ambient for Windows 11 (x64) →**](https://github.com/aryansid/Ambient-Releases/releases/latest/download/Ambient-Windows-x64-Setup.exe)
 
-The Windows beta is currently unsigned. Windows SmartScreen may show **Unknown publisher**; choose **More info**, verify that the filename is `Ambient-Windows-x64-Setup.exe`, and then choose **Run anyway**. Do not install copies obtained from another domain.
+> [!NOTE]
+> This beta is unsigned, so Windows SmartScreen may show **Unknown publisher**. Choose **More info**, confirm the filename is `Ambient-Windows-x64-Setup.exe`, then choose **Run anyway**.
 
-Every release includes `SHA256SUMS.txt` so the installer can be verified before launch. The consumer download is the per-user NSIS installer; internal MSI artifacts are intentionally not published to avoid competing installation records.
+[Verify the SHA-256 checksum](https://github.com/aryansid/Ambient-Releases/releases/latest/download/SHA256SUMS.txt) before launch.
