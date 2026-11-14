@@ -5,7 +5,7 @@
 </p>
 
 **Ambient lives at the top of your Windows desktop. Hold <kbd>Alt</kbd> + <kbd>Space</kbd> and speak naturally, or just type.**<br>
-**It browses the web, makes presentations and documents, and gets the job done your way.**
+**It operates your Windows machine like a human, and gets the job done your way.**
 
 ## Download (beta)
 
